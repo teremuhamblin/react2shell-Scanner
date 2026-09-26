@@ -12,11 +12,11 @@
 - [x] Documenter structure + architecture  
 - [x] Ajouter un pack .github propre
 ![CI](https://img.shields.io/badge/GitHub_Actions-CI-CC0000?style=for-the-badge&logo=githubactions&logoColor=white)
-![SecurityScan](https://img.shields.io/badge/Security-Dependency_Review-8B0000?style=for-the-badge)
-![Lint](https://img.shields.io/badge/Lint-ESLint-B30000?style=for-the-badge&logo=eslint)
+![SecurityScan](https://img.shields.io/badge/Security-Dependency_Review-CC0000?style=for-the-badge)
+![Lint](https://img.shields.io/badge/Lint-ESLint-CC0000?style=for-the-badge&logo=eslint)
 - [x] Versionner le projet
-![Version](https://img.shields.io/badge/Version-1.0.0-FF0000?style=for-the-badge)
-![Release](https://img.shields.io/badge/Release-Stable-8B0000?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-CC0000?style=for-the-badge)
+![Release](https://img.shields.io/badge/Release-Stable-CC0000?style=for-the-badge)
 
 ### 📌 Contenu
 - **structure.md** : structure du projet  
@@ -31,8 +31,8 @@ node scanner.js
 ```
 
 ### ⚠️ Note
-![Tactical](https://img.shields.io/badge/Mode-Tactical-8B0000?style=for-the-badge)
-![CyberOps](https://img.shields.io/badge/Cyber-Ops-B30000?style=for-the-badge)
+![Tactical](https://img.shields.io/badge/Mode-Tactical-FF0000?style=for-the-badge)
+![CyberOps](https://img.shields.io/badge/Cyber-Ops-FF0000?style=for-the-badge)
 ![Threat](https://img.shields.io/badge/Threat-Level_React2Shell-FF0000?style=for-the-badge)
 
 > Ce projet est éducatif.  
