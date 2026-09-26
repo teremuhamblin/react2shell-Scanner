@@ -1,4 +1,10 @@
 ###### README.md >> markdown
+
+![OSINT](https://img.shields.io/badge/Folder-osint-e67e22?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon-Offensive_&_Defensive-e67e22?style=for-the-badge)
+![Go](https://img.shields.io/badge/Script-Go_Offensive-e67e22?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Script-Java_Defensive-e67e22?style=for-the-badge&logo=java)
+
 ### Dossier osint/
 Outils OSINT offensifs et défensifs pour reconnaissance, analyse et collecte d’informations sur des cibles ou infrastructures.  
 Ce dossier contient deux scripts principaux : un en Go (offensif) et un en Java (défensif).
