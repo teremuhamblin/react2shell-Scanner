@@ -1,6 +1,10 @@
 # Dossier docs/
 Documentation centrale du projet **SiteWebPerso‑Security**.
 
+![Docs](https://img.shields.io/badge/Folder-docs-CC0000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-CC0000?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-React2Shell_Docs-CC0000?style=for-the-badge)
+
 Ce dossier regroupe toutes les informations techniques, analyses, guides et rapports liés à la sécurité du projet.
 
 ## Contenu
