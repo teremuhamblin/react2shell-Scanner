@@ -3,6 +3,11 @@ Module de scans avancés pour la détection, l’analyse et la surveillance des 
 
 ## Contenu des scripts
 
+![Scanners](https://img.shields.io/badge/Folder-scanners-CC0000?style=for-the-badge)
+![Military](https://img.shields.io/badge/Mode-Military_Scan-CC0000?style=for-the-badge)
+![Advanced](https://img.shields.io/badge/Level-Advanced-CC0000?style=for-the-badge)
+![React2Shell](https://img.shields.io/badge/Detection-React2Shell-CC0000?style=for-the-badge)
+
 - **scanner.js** — Scanner principal militaire renforcé  
 - **net_probe.js** — Analyse réseau (ports, latence, anomalies)  
 - **flight_analyzer.js** — Analyse profonde des payloads Flight  
