@@ -1,4 +1,7 @@
-###### README.md >> markdown 
+###### README.md >> markdown
+![React2Shell](https://img.shields.io/badge/React2Shell-Scanner_v1.0-CC0000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-CC0000?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache_2.0-CC0000?style=for-the-badge)
 ### 1️⃣ React2Shell-Scanner v1.0
 - Petit projet personnel pour comprendre et documenter la **vulnérabilité React2Shell (CVE‑2025‑55182)**.  
 - Ce dépôt contient : un *scanner, une architecture, et un pack GitHub Actions*
@@ -7,8 +10,13 @@
 - [x] Comprendre la faille React2Shell  
 - [x] Créer un mini scanner HTTP  
 - [x] Documenter structure + architecture  
-- [x] Ajouter un pack .github propre  
+- [x] Ajouter un pack .github propre
+![CI](https://img.shields.io/badge/GitHub_Actions-CI-CC0000?style=for-the-badge&logo=githubactions&logoColor=white)
+![SecurityScan](https://img.shields.io/badge/Security-Dependency_Review-8B0000?style=for-the-badge)
+![Lint](https://img.shields.io/badge/Lint-ESLint-B30000?style=for-the-badge&logo=eslint)
 - [x] Versionner le projet
+![Version](https://img.shields.io/badge/Version-1.0.0-FF0000?style=for-the-badge)
+![Release](https://img.shields.io/badge/Release-Stable-8B0000?style=for-the-badge)
 
 ### 📌 Contenu
 - **structure.md** : structure du projet  
@@ -22,7 +30,10 @@
 node scanner.js
 ```
 
-###⚠️ Note
+### ⚠️ Note
+![Tactical](https://img.shields.io/badge/Mode-Tactical-8B0000?style=for-the-badge)
+![CyberOps](https://img.shields.io/badge/Cyber-Ops-B30000?style=for-the-badge)
+![Threat](https://img.shields.io/badge/Threat-Level_React2Shell-FF0000?style=for-the-badge)
 
 > Ce projet est éducatif.  
 Il ne doit pas être utilisé pour des actions non autorisées.
