@@ -1,0 +1,14 @@
+name: Security Scan
+
+on:
+  push:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Détection vulnérabilités
+        uses: actions/dependency-review-action@v4
