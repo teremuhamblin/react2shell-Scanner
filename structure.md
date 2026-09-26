@@ -1,6 +1,22 @@
 ###### structure.md >> markdown 
 # 2️⃣ Structure du projet
+### ✔️  Structure
+```text
+React2Shell-Scanner/
+├── README.md
+├── structure.md
+├── architecture.md
+├── version.md
+├── scanner.js
+└── .github/
+    └── workflows/
+        ├── ci.yml
+        ├── security.yml
+        └── lint.yml
+```
+
 ### ✔️ Arborescence
+```text
 - [x] README.md  
 - [x] structure.md  
 - [x] architecture.md  
@@ -10,6 +26,7 @@
     - [x] ci.yml
     - [x] security.yml
     - [x] lint.yml
+```
 
 ### 📁 Détails
 - `scanner.js`
