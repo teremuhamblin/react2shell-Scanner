@@ -20,11 +20,12 @@
 
 ### 📌 Contenu
 - **structure.md** : structure du projet
-- **docs** : documentation du projet
 - **architecture.md** : architecture technique  
 - **version.md** : versioning du projet  
-- **.github/** : workflows CI + sécurité  
-- **scanner.js** : scanner simple pour tests locaux
+- **.github/** : workflows CI + sécurité
+- **docs/** : documentation du projet
+- **osint/** : dossier des outils `Osint`
+- **scanners/** : scanner pour tests locaux
 
 ### 🚀 Lancer le scanner
 ```bash
