@@ -19,7 +19,8 @@
 ![Release](https://img.shields.io/badge/Release-Stable-CC0000?style=for-the-badge)
 
 ### 📌 Contenu
-- **structure.md** : structure du projet  
+- **structure.md** : structure du projet
+- **docs** : documentation du projet
 - **architecture.md** : architecture technique  
 - **version.md** : versioning du projet  
 - **.github/** : workflows CI + sécurité  
