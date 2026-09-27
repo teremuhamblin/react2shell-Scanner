@@ -23,7 +23,6 @@
 - **architecture.md** : architecture technique  
 - **version.md** : versioning du projet  
 - **.github/** : workflows CI + sécurité
-
 ![GitHub](https://img.shields.io/badge/Folder-.github-8e44ad?style=for-the-badge&logo=github)
 ![Actions](https://img.shields.io/badge/CI-CD_Actions-8e44ad?style=for-the-badge&logo=githubactions)
 ![Security](https://img.shields.io/badge/Security-Workflows-8e44ad?style=for-the-badge)
